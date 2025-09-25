@@ -3,6 +3,9 @@
 
 ### Identity Server
 
+> 认证服务。
+> 基于Java Spring Boot开发，数据库采用MySql。
+
 ### Registry Server
 
 ### Account Server
