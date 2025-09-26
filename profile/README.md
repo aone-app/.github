@@ -44,6 +44,18 @@
 
 ### Registry Server
 
+> 一个用 **Golang** 实现的轻量级 **注册中心**，同时支持 **HTTP** 和 **ConnectRPC** 调用。  
+> 提供了 **Go / C# / Java** 三个版本的 SDK，方便跨语言的服务注册、心跳和服务发现。
+
+#### ✨ Features | 功能特点
+
+- ✅ Service register (注册服务)  
+- ✅ Service deregister (注销服务)  
+- ✅ Heartbeat to keep alive (心跳保活)  
+- ✅ Query registered services (查询服务列表)  
+- ✅ SDKs for Go / C# / Java (跨语言 SDK)  
+
+
 ### Account Server
 
 ### Finance Server
